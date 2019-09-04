@@ -2,7 +2,7 @@ package exercise1B;
 
 public class Circle
 {
-private int radius;
+private double radius;
 public static final double PI =3.14159;
  
 public double getRad(int r)
